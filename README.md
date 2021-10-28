@@ -2,7 +2,7 @@
 
 
 ## Imagen
-![GitHub Logo](Imagenes/Yo.jpeg)
+![Yo](Imagenes/Yo.jpeg)
 As someone said:
 > You can't wait until life isn't hard anymore before you decide to be happy
 
@@ -21,21 +21,8 @@ Profesorado | Náutica
 *Linkedin:*
 [Linkedin](https://es.linkedin.com/in/jaime-garc%C3%ADa-bullejos-923717142)
 
-I think you should use an
+**Lineas de código**
 
-
-
-
-
-
-`<addr>` element here instead.
-**Experiencia:**
-
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-
+`<addr>` 
 
 
