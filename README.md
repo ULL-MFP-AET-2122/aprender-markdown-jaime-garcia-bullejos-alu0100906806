@@ -42,4 +42,4 @@ function fancyAlert(arg) {
 }
 
 
-[Experiencia en el master](/workspace/aprender-markdown-jaime-garcia-bullejos-alu0100906806/master.md)
+[Experiencia en el master](master.md)
