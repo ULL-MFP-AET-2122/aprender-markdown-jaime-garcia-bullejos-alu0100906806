@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6129480&assignment_repo_type=AssignmentRepo)
 
-# titulo grande 
+# Jaime García Bullejos :owl:
 ## subseccion 
 En esta primera sección bla bla bla 
 
@@ -14,9 +14,7 @@ Lista:
 
 *esto está en cursiva*
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](Imagenes/Yo.jpeg)
 Format: ![Alt Text](url)
 
 
@@ -33,9 +31,15 @@ I think you should use an
 `<addr>` element here instead.
 
 First Header | Second Header
-
 ------------ | -------------
-
 Content from cell 1 | Content from cell 2
-
 Content in the first column | Content in the second column
+
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+
+
+[Experiencia en el master](/workspace/aprender-markdown-jaime-garcia-bullejos-alu0100906806/master.md)
